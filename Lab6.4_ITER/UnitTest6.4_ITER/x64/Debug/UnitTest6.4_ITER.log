@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest6.4_ITER.cpp
+C:\Users\Acer\source\repos\Lab6.4_ITER\Lab6.4_ITER\Lab6.4_ITER.cpp(46,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.4_ITER.cpp')
+  
+     Creating library C:\Users\Acer\source\repos\Lab6.4_ITER\x64\Debug\UnitTest6.4_ITER.lib and object C:\Users\Acer\source\repos\Lab6.4_ITER\x64\Debug\UnitTest6.4_ITER.exp
+  UnitTest6.4_ITER.vcxproj -> C:\Users\Acer\source\repos\Lab6.4_ITER\x64\Debug\UnitTest6.4_ITER.dll

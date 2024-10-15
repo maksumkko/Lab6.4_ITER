@@ -1,0 +1,3 @@
+﻿  Lab6.4_ITER.cpp
+C:\Users\Acer\source\repos\Lab6.4_ITER\Lab6.4_ITER\Lab6.4_ITER.cpp(46,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6.4_ITER.vcxproj -> C:\Users\Acer\source\repos\Lab6.4_ITER\x64\Debug\Lab6.4_ITER.exe
